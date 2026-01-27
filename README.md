@@ -1,4 +1,4 @@
-Hi, I’m @YatharthVerm
+Hi, I’m @YatharthVerm,
 I’m interested in Python and AI
 
 
