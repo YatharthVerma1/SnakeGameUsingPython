@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @YatharthVerma
-- 👀 I’m interested in Python and AI
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I’m @YatharthVerm
+I’m interested in Python and AI
+
 
 <!---
 Vermaad/Vermaad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
